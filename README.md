@@ -37,7 +37,7 @@ re-engagement of quiet subscribers, PPV announcements, welcome sequences.
 Doing that by hand doesn't scale, and generic "onlyfans mass message bot"
 scripts are brittle and hard to audit.
 
-**DirtyDialogues** is a B2B chatting / CRM platform for creator agencies. Its
+**DirtyDialogues** is a chat / CRM platform creator agencies use to run **fan conversations** at scale. Its
 API lets your own tooling drive **mass DM automation** the way you'd integrate
 any messaging provider — you keep control of segmentation, copy, and scheduling,
 and call a documented endpoint to fan it out. This repo is the smallest useful

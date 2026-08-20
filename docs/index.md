@@ -34,9 +34,9 @@ Full walkthrough is in the [README](https://github.com/your-org/onlyfans-mass-dm
 
 This is an **example** integration to illustrate the DirtyDialogues messaging
 API request flow. Endpoint paths and response schemas shown in the code are
-**placeholders** — the authoritative, live reference lives in the official docs.
+**placeholders** — the authoritative, live reference lives in DirtyDialogues.
 
-- **Live API docs:** [dirtydialogues.com/docs](https://dirtydialogues.com/docs)
+- **Live API docs:** [dirtydialogues.com/docs](https://dirtydialogues.com)
 - **Sign up / get your API key:** [dirtydialogues.com](https://dirtydialogues.com)
 
 ---
